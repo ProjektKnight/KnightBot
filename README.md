@@ -3,7 +3,8 @@ KnightBot is a 2-D game made in python.Please read the disclaimer before opening
 
 Prerequisites:
 IDE (preferred) such as Pycharm that has pygame installed
-else If running manually ,make sure you have Pygame installed
+else If running manually ,make sure you have Pygame installed.
+Download all the files above in one folder.
 
 Only file to open is "gamester.py"
 Just Run the file in order to play.
